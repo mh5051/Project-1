@@ -979,7 +979,7 @@ hr{
 }
 .Facebook-i2 , .LinkedIn-i2 , .twitter-i2 {
     margin-left: 20px;
-    background-color: white;
+    background-color: inherit;
     border-radius: 10px;
     width: 20px;
     height: 20px;
@@ -1066,4 +1066,5 @@ hr{
     margin-top: 10px;
     color: rgb(97, 97, 97);
     font-size: 14px;
+
 }
